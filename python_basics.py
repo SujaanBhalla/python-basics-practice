@@ -200,3 +200,38 @@ user name = "Amit" # Space not allowed
 1name = "Amit" # Cannot start with a number 
 print = "Hello" # Avoid built-in names
 
+# Quiz 1: Examples(Lecture 10)
+
+# Question 1:
+# Which line of Python code is valid?
+#  Valid 
+a = 12
+# Invalid 
+# var a = 12
+# a: 12 
+# 12 = a
+
+# Question 2:
+# Which is the best variable name for Player 1's username?
+# Bad 
+# p1 user name = "jackbauer" 
+# 1_player_username = "jackbauer" 
+# p1u = "jackbauer" 
+# Best 
+player1_username = "jackbauer"
+
+# Question 3:
+# Which block of code will produce an error? For extra points, 
+# which type of error do you think it will produce?
+time_until_midnight = "5" 
+# Wrong 
+# print(time_until_Midnight) 
+# Because: # time_until_midnight != time_until_Midnight
+
+
+
+
+
+
+
+
