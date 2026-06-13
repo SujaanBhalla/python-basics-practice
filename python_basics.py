@@ -4,6 +4,9 @@
 # Course: 100 Days of Code - Day 1
 # Author: Sujaan Bhalla
 # ============================================
+
+#Module 1 : lecture 1 to 12
+
 #lecture 1 to 5
 
 print("Hello, World!")
@@ -227,6 +230,24 @@ time_until_midnight = "5"
 # Wrong 
 # print(time_until_Midnight) 
 # Because: # time_until_midnight != time_until_Midnight
+
+#lecture 11 : Project created 
+# band_name_generator.py
+
+#lecture 12 : 
+# 🎉 Congratulations, Sujaan! You have successfully completed Day 1 of the 
+# "100 Days of Code" Python course.
+
+# 📚 What you should remember from Day 1
+# Topic	Key Idea
+# print()	Displays output on the screen
+# input()	Takes input from the user
+# Variables	Store values for later use
+# +	        Concatenates (joins) strings
+# \n	    Moves to a new line
+# len()	    Counts the number of characters
+# Naming	Use meaningful names, underscores, and avoid spaces
+
 
 
 
