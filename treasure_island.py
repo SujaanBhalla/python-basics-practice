@@ -1,4 +1,4 @@
-# Lecture 28 - Treasure Island Project
+#Project 3 - Treasure Island Project
 
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
