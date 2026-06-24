@@ -137,3 +137,16 @@ for number in range(1, 101):
 # shuffle() -> Randomly reorder list
 # for loop -> Generate multiple characters
 # Password generated using letters, symbols, and numbers
+
+# Lecture 42 - Hard Work and Perseverance Beats Raw Talent
+
+# Day 5 Completed ✅
+
+# Key Takeaway:
+# Consistency and practice are more important than talent.
+# Keep coding every day and trust the learning process.
+
+# Reminder:
+# Don't quit when concepts feel difficult.
+# Every programmer starts as a beginner.
+# Progress comes from repetition and persistence.
